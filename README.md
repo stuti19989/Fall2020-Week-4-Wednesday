@@ -7,7 +7,7 @@ Week 4 - Wednesday<br>
 <br>
 <hr>
 <h3>
-Draw A home Clip Art using SVG tags
+Draw a Home/House Clip Art using SVG tags
 </h3>
 <p>
     Use your creativity, there is no limit!
